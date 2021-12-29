@@ -6,7 +6,7 @@ and modification. Its frontend is built with Vanilla CSS, JavaScript, HTML and W
 
 ## Requirements
 * Vanilla JavaScript 
-* npm
+* Npm
 * Web pack
 
 For run this project you need to configure webpack.config.js
